@@ -5,5 +5,5 @@ export default function handler(
   response: VercelResponse,
 ) {
   const { name } = request.query;
-  return response.end(`Hello ${name}!`);
+  return response.end(`Hello ${name}! How are you ?`);
 }

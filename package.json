@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vercel/node": "^2.9.7"
+    "@vercel/node": "^2.9.7",
+    "simple-git": "^3.17.0"
   }
 }
